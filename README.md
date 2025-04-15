@@ -8,7 +8,7 @@ This dashboard was developed as part of a course project, following specific ins
 ![Dashboard Preview](sales_dashboard.png)
 
 <p align="center">
-  <img src="sales_dashboard.png" alt="Dashboard Preview" width="700"/>
+  <img src="sales_dashboard.png" alt="Dashboard Preview" width="1000"/>
 </p>
 
 ## 📊 About the Dashboard
