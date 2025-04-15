@@ -5,6 +5,12 @@ This project contains an interactive Tableau dashboard built to visualize and an
 
 This dashboard was developed as part of a course project, following specific instructions provided by the instructor. It demonstrates the use of Tableau for creating interactive visualizations and extracting insights from data.
 
+![Dashboard Preview](sales_dashboard.png)
+
+<p align="center">
+  <img src="sales_dashboard.png" alt="Dashboard Preview" width="700"/>
+</p>
+
 ## 📊 About the Dashboard
 
 - Built using: **Tableau**
